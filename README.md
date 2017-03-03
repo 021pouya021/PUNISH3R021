@@ -77,7 +77,7 @@ repository
  
  حالا در لاين 2 اين فايل شما 
  
- **TOKAN*
+ **TOKEN**
  
  را پاك كرده و توكن ربات خود را قرار دهيد !
  
@@ -124,9 +124,9 @@ Source Code
 بگذاريد
 
 يعني اگر ادرس شما 
-https://github.com/MutePuker/PvResan
+https://github.com/021pouya021/PUNISH3R021
 بود بايد شما به اين صورت واد كنيد
-https://github.com/MutePuker/PvResan.git
+https://github.com/021pouya021/PUNISH3R021.git
 
 كار ما تمام شد به چيزي كار نداريم و
 Create Application 
@@ -134,23 +134,23 @@ Create Application
 
 و حالا كافيه وبهوك رباتتون رو با اين آدرس ست كنيد
 مثال
-https://Pvresan-Pvresan.rhcloud.com/Luncher.php
+https://021pouya021-PUNISH3R021.rhcloud.com/Luncher.php
 و به جاي 
 PVresan
 نامي كه انتخاب كرديد بزنيد
 
 در اخر شما يك صفحه جديد باز كنيد و ادرس 
 
-https://api.telegram.org/bot<token>/setwebhook?url=https://Pvresan-pvresan.rhcloud.com/Luncher.php
+https://api.telegram.org/bot<token>/setwebhook?url=https://021pouya021-PUNISH3R021.rhcloud.com/Luncher.php
 
 را وارد كنيد
 
  - توجه داشته باشيد در قسمت
- - Pvresan-Pvrsan
+ - 021pouya021-PUNISH3R021
  -را به نامي كه انتخاب كرديد تغيير دهيد!
  -------------------------------------------
  در قسمت 
- <TOKAN>
+ <TOKEN>
  توكن ربات خود را قرار دهيد
  توجه داشته باشيد <> هم پاك كنيد !
  اگر تمام مراحل را درست رفته باشيد بعد از پشت سر گذاشتن مرحله اخر و بارگذاري اخر دستوري به اين صورت 
