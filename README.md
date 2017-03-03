@@ -8,7 +8,7 @@
 
 <b>Source PvResan</b>
 
-<big>Created By Nakhodaye_Lashia</big>
+<i>C</i><pre>r</pre><i>e</i><pre>a</pre><i>t</i><pre>e<pre><i>d</i> <del>By</del> "<b>Nakhodaye_Lashia</b>"
 
 <i>اين آموزش پولي ميباشد اما ما بصورت رايگان براي شما قرار داده ايم , براي حمايت به ما ستاره بديد و در كانال ما جوين بشيد</i>
 
