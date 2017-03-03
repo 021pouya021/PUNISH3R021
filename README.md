@@ -1,7 +1,7 @@
 # install PvResan
 
 
-<a href="Telegram.me/Sigareti"><b>Channel</b></a>
+<a href="Telegram.me/Sigareti">Channel</a>
 
 [creator](https://telegram.me/FasTyper)
 
