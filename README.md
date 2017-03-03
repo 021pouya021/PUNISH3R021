@@ -1,14 +1,14 @@
 # install PvResan
 
 
-[join to @OpenID](https://telegram.me/SigareTi
+<a href="Telegram.me/Sigareti"><b>Channel</b></a>
 
 [creator](https://telegram.me/FasTyper)
 
 
 <b>Source PvResan</b>
 
-<b>Created By Nakhodaye_Lashia</b>
+<big>Created By Nakhodaye_Lashia</big>
 
 <i>اين آموزش پولي ميباشد اما ما بصورت رايگان براي شما قرار داده ايم , براي حمايت به ما ستاره بديد و در كانال ما جوين بشيد</i>
 
